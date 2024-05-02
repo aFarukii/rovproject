@@ -1,0 +1,18 @@
+[StartTime]
+motortutucuon-Static 1.MFC=
+[SolverState]
+motortutucuon-Static 1.MFC=2
+[MainFrame]
+motortutucuon-Static 1.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHEBAAAAAELDAAAAAKBCAAAAA
+[ShowMin]
+motortutucuon-Static 1.MFC=yes
+[SolverType]
+motortutucuon-Static 1.MFC=Linear Analysis
+[StudyType]
+motortutucuon-Static 1.MFC=-1
+[StudyName]
+motortutucuon-Static 1.MFC=Static 1
+[Solver]
+motortutucuon-Static 1.MFC=Sparse
+[Dynamic]
+motortutucuon-Static 1.MFC=0
